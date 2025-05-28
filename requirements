@@ -1,0 +1,6 @@
+transformers
+datasets
+torch
+accelerate
+gradio
+seqeval
